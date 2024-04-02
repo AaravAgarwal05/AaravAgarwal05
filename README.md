@@ -62,6 +62,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AaravAgarwal05/AaravAgarwal05/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AaravAgarwal05/AaravAgarwal05/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
