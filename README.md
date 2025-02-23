@@ -1,3 +1,5 @@
+![](https://github.com/AaravAgarwal05/AaravAgarwal05/blob/main/Profile%20Banner.png)
+
 # 💫 About Me:
 🔭 I’m currently working on hobby projects like a streaming website, a chat application, an e-commerce platform for farmers (selling seeds, organic fruits, and vegetables), and a donation app similar to "Buy Me a Coffee."<br>👯 I’m looking to collaborate on open-source web development projects and projects related to AI, ML, and emerging tech stacks.<br>🤝 I’m looking for help with UI/UX design since I’m not that much into the creative side of things.<br>🌱 I’m currently learning new tech stacks, emerging technologies, and AI/ML, focusing on machine learning and deep learning.<br>💬 Ask me about web development technologies and coding in C, C++, Java, Python, TypeScript, and more.<br>⚡ Fun fact – If debugging is like being a detective in a crime movie where you are also the murderer, then web development is like setting up a house of cards and hoping a browser update doesn’t blow it all down. 😆
 
